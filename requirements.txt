@@ -78,3 +78,35 @@ uvicorn==0.32.0
 watchdog==4.0.2
 wordcloud==1.9.3
 zipp==3.20.1
+streamlit
+fastapi
+uvicorn
+pandas
+requests
+beautifulsoup4
+transformers
+torch
+# Frameworks e Bibliotecas Principais
+streamlit==1.25.0
+fastapi==0.95.1
+uvicorn==0.22.0
+
+# Processamento de Dados
+pandas==2.0.3
+numpy==1.24.4
+
+# Requisições HTTP e Web Scraping
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# Modelos de Linguagem Natural
+transformers==4.31.0
+torch==2.0.1
+
+# Validação de Dados
+pydantic==1.10.7
+
+# Dependências Adicionais
+matplotlib==3.7.2
+scipy==1.10.1
+
